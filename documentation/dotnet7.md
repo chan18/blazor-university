@@ -1,0 +1,72 @@
+# dotnet 7 version
+
+[ ] CascadingValues
+    [ ] CascadingValuesByName
+    [ ] CascadingValuesByType
+    [ ] ManualParameterPassing
+    [ ] OverridingCascadedValues
+[ ] Components
+    [ ] BindingDirectives
+    [ ] CapturingUnexpectedParameters
+    [ ] CodeGeneratedHtmlAttributes
+    [ ] ComponentLifecycles
+    [ ] CreatingAComponent
+    [ ] DirectiveAttributes
+    [ ] EventCallbacks
+    [ ] LiteralsExpressionsAndDirectives
+    [ ] MultithreadedRendering
+    [ ] OneWayBinding
+    [ ] ReplacingChildAttributes
+    [ ] TwoWayBinding
+    [ ] UsingInvokeAsync
+[ ] DependencyInjection
+    [ ] BasicDependencyInjection
+    [ ] OwningComponentScopes
+    [ ] OwningMultipleDependenciesTheRightWay
+    [ ] OwningMultipleDependenciesTheWrongWay
+    [ ] ServerDependencyScopes
+    [ ] TransientLifetimes
+    [ ] UsingGenericOwningComponentBase
+    [ ] WebAssemblyDependencyScopes
+    [ ] WebChat
+[ ] Forms
+    [ ] AccessingFormState
+    [ ] BasicForm
+    [ ] CustomValidation
+    [ ] FormInputs
+    [ ] HandlingFormSubmission
+    [ ] InheritingFromInputBase
+    [ ] ValidatingUserInput
+[ ] JavaScriptInterop
+    [ ] AccessingJavaScriptReturnValues
+    [ ] CallingDotNetFromJavaScript
+    [ ] CallingDotNetFromJavaScriptBasic
+    [ ] CallingDotNetFromJavaScriptLifetimes
+    [ ] CallingJavaScriptFromDotNet
+    [ ] CallingStaticDotNetMethods
+    [ ] HtmlElementReferences
+    [ ] JavaScriptBootProcess
+    [ ] PassingComplexObjectsToJavaScript
+    [ ] UpdatingDocumentTitle
+[ ] Layouts
+    [ ] CreatingALayout
+    [ ] NestedLayouts
+    [ ] SpecifyingALayoutExplicitly
+    [ ] UsingALayout
+[ ] RenderTrees
+    [ ] IncrementalRenderTreeProof
+    [ ] OptimisingUsingKeys
+[ ] Routing
+    [ ] CapturingAParameterValue
+    [ ] ConstrainingRouteParameters
+    [ ] NavigatingViaCode
+    [ ] NavigatingViaHtml
+    [ ] OptionalRouteParameters
+    [ ] OptionalRouteParametersWithDefaultValues
+    [ ] PageNotFound
+[ ] TemplatedComponents
+    [ ] CreatingATabControl
+    [ ] PassingDataToARenderFragment
+    [ ] PassingPlaceholdersToRenderFragments
+    [ ] TemplatedComponents
+    [ ] UsingTypeParamToCreateGenericComponents
